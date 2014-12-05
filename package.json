@@ -1,15 +1,15 @@
 {
-    "name": "atomizeed-monokai-dark",
-    "theme": "syntax",
-    "version": "0.0.1",
-    "private": true,
-    "description": "A slightly altered dark monokai theme",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/inteist/atomized-monokai-dark"
-    },
-    "license": "MIT",
-    "engines": {
-        "atom": ">0.50.0"
-    }
+  "name": "atomizeed-monokai-dark",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A slightly altered dark monokai theme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/inteist/atomized-monokai-dark"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
 }
