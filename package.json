@@ -1,26 +1,15 @@
 {
-    "name": "monokai-dark-atom",
+    "name": "atomizeed-monokai-dark",
     "theme": "syntax",
-    "version": "1.0.0",
+    "version": "0.0.1",
+    "private": true,
     "description": "A slightly altered dark monokai theme",
-    "author": {
-        "name": "Max B. (Inteist)",
-        "email": "max@inteist.com",
-        "url": "http://inteist.com"
-    },
-    "homepage": "https://github.com/inteist/atomized-monokai-dark.git",
     "repository": {
         "type": "git",
-        "url": "https://github.com/inteist/atomized-monokai-dark.git"
+        "url": "https://github.com/inteist/atomized-monokai-dark"
     },
-    "private": true,
     "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/inteist/atomized-monokai-dark/issues"
-    },
     "engines": {
         "atom": ">0.50.0"
-    },
-    "readme": "# Dark Monokai theme\n\n\nModification of the https://github.com/james2doyle/atom-monokai-dark to have lighter background and different gutter",
-    "readmeFilename": "README.md",
+    }
 }
