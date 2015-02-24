@@ -1,4 +1,6 @@
-Copyright (c) 2014 Max Bin
+Copyright (c) 2014 Max B. [inteist]
+
+Modification of the https://github.com/james2doyle/atom-monokai-dark
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
