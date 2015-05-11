@@ -2,7 +2,7 @@
 @blue: #66D9EF;
 @gutter: #F8F8F2;
 @dark: #1D1D1D;
-@comment: #75715E;
+@comment: #868581;
 @string: #E6DB74;
 @const: #AE81FF;
 @keyword: #F92672;
@@ -16,11 +16,8 @@
 @attribute: @class;
 @parameter: #FD971F;
 
-.atom-text-editor {
+.editor {
   ::-webkit-scrollbar {
-    // width: 0.1em;
-    // height: .7em;
-
     width: 0em;
     height: 0em;
 }
@@ -72,12 +69,14 @@
   }
 
   .constant.language {
-    color: @const;
+    color: @blue;
   }
 
-  .constant.character,
+  .constant.character{
+      color: @class;
+  }
   .constant.other {
-    color: @const;
+    color: @class;
   }
 
   .variable {
@@ -147,4 +146,5 @@
     color: @invalid;
     background-color: @const;
   }
+
 }
